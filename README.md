@@ -1,2 +1,2 @@
 # BreastCancerDataset
-Project 2 from CSCI-B 455 at Indiana University
+The purpose of this project was to use packages from sklearn to optimize an MLP for classification on the UW Breast Cancer Dataset. The secondary goal of this project was to analyze overfitting during training, and then try to minimize it. The accuarcy for my final results was 97.2%. Additionally, during five-fold cross-validation, the training and testing accuracies converged, meaning no overfitting and an optimal result.
